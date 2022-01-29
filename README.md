@@ -25,5 +25,6 @@ In the following image we are able to see the line chart of the Total fare by ci
 
 ## Recommendations
 
-1. The low total rides and fares in the rural cities could be a result of low drivers amount, I would suggest a increase of the drivers in this area.
-2. 
+1. The low total rides and fares in the rural cities could be a result of low drivers amount, I would suggest an increase of the drivers in this area.
+2. There are too many drivers in the urban areas, it's the only category where the drivers out number the rides, resulting in low earnings per driver. Recommend less hiring in urban.
+3. To better understand the disparity of fares, recommend adding avergae miles per ride per category, as one can assume that rural drivers will have longer drives however this is just an assumption without data
